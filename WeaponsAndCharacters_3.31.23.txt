@@ -1,0 +1,90 @@
+{
+  "characters": {
+    "trooper": {
+      "ATK": 1,
+      "DEF": 2,
+      "HP": 2,
+      "SP": 0,
+      "SV": 4
+    },
+    "elite": {
+      "ATK": 2,
+      "DEF": 4,
+      "HP": 3,
+      "SP": 1,
+      "SV": 4
+    },
+    "spartan": {
+      "ATK": 3,
+      "DEF": 3,
+      "HP": 5,
+      "SP": 2,
+      "SV": 4
+    },
+    "brute": {
+      "ATK": 1,
+      "DEF": 5,
+      "HP": 4,
+      "SP": 0,
+      "SV": 4
+    },
+    "grunt": {
+      "ATK": 0,
+      "DEF": 1,
+      "HP": 1,
+      "SP": 0,
+      "SV": 6
+    },
+    "jackal": {
+      "ATK": 0,
+      "DEF": 2,
+      "HP": 1,
+      "SP": 0,
+      "SV": 6
+    }
+  },
+  "weapons": {
+    "ar": {
+      "NAME": "Assualt Rifle",
+      "ATK": 4,
+      "AP": 1,
+      "DMG": 1,
+      "Abilities": "None, Kinetic"
+    },
+    "pr": {
+      "NAME": "Plasma Rifle",
+      "ATK": 4,
+      "AP": 0,
+      "DMG": 1,
+      "Abilities": "Plasma"
+    },
+    "br": {
+      "NAME": "Battle Rifle",
+      "ATK": 5,
+      "AP": 2,
+      "DMG": 2,
+      "Abilities": "Precision"
+    },
+    "bs": {
+      "NAME": "Brute Shot",
+      "ATK": 3,
+      "AP": 3,
+      "DMG": 3,
+      "Abilities": "None"
+    },
+    "pp": {
+      "NAME": "Plasma Pistol",
+      "ATK": 3,
+      "AP": 2,
+      "DMG": 1,
+      "Abilities": "Overcharge, Plasma"
+    },
+    "nr": {
+      "NAME": "Needler",
+      "ATK": 1,
+      "AP": 3,
+      "DMG": 1,
+      "Abilities": "SuperCombine"
+    }
+  }
+}
